@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Books Scrapping">
+	<test name="Books to scrape">
+		<classes>
+			<class
+				name="com.sample.modules.Bookstoscrape" />
+		</classes>
+	</test>
+</suite>
